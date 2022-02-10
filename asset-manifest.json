@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aea5ef9d.css",
+    "main.js": "/static/js/main.363e0e9b.js",
+    "static/media/snowman.jpeg": "/static/media/snowman.c9da18af2ee1d215a234.jpeg",
+    "index.html": "/index.html",
+    "main.aea5ef9d.css.map": "/static/css/main.aea5ef9d.css.map",
+    "main.363e0e9b.js.map": "/static/js/main.363e0e9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aea5ef9d.css",
+    "static/js/main.363e0e9b.js"
+  ]
+}
